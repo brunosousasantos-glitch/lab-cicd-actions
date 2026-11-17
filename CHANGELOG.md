@@ -1,0 +1,16 @@
+Histórico de versões
+Versão Final — 16/11/2026 (fim de vida)
+ Motivo: fim da disciplina
+ Aviso: mensagem no próprio site
+ Dados: o código fica no repositório
+ Substituto: nenhum
+Versão 6 - Publicada 26/10
+ Pedido 1: Coloque uma imagem de fundo no site
+Versão 5 - Publicada 19/10
+ Pedido 1: Trocar a cor do Fundo do site para Laranja e Verde
+Versão 4 — Publicada 05/10
+ Pedido 1: trocar o emoji do topo
+ Pedido 2: atualizar a frase principal
+ Pedido 3: mudar a cor do site
+Versão 3 — publicada
+Erro corrigido, site verde, frase motivacional adicionada
